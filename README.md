@@ -1,6 +1,3 @@
-# acse-6-individual-assignment-acse-sa1619
-Sokratis Anagnostopoulos (CID: 00986040)
-
 
 # Parallel implementation of Conway's Game of Life using MPI on C++.
 
