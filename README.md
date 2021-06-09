@@ -1,6 +1,7 @@
 
 # Parallel implementation of Conway's Game of Life using MPI on C++.
 
+![](cores.png)
 
 __Requirements:__
 
