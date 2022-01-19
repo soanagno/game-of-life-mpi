@@ -3,11 +3,6 @@
 
 ![](cores.png)
 
-__Requirements:__
-
-- For .cpp --> MPI C++ library settings.
-- For .m --> Matlab R2019b
-
 
 __Instructions:__
 
@@ -32,3 +27,8 @@ __Description of attached video files:__
 - Video F: 23 x 41 grid divided into 9 cores demonstrating horizontal configuration with random inital condition.
 
 - Video G: 1000 x 100 grid divided into 9 cores with periodic boundary condition.
+
+__Requirements:__
+
+- For .cpp --> MPI C++ library settings.
+- For .m --> Matlab R2019b
